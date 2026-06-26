@@ -8,6 +8,9 @@ credentials
 *.sqlite
 *.sqlite3
 
+# Generated reports
+catalog_report.html
+
 # Python
 __pycache__/
 *.py[cod]
