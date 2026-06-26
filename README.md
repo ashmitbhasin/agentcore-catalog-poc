@@ -2,7 +2,7 @@
 
 Python connector that pulls agents from **AWS Bedrock AgentCore** and lands them in a local **SQLite catalog** — with full metadata, action groups, knowledge bases, and run logs.
 
-Built for the Agently.ai AgentCore → Agent Catalog integration (Week 2 deliverable).
+Built for the Agently.ai AgentCore → Agent Catalog integration
 
 ---
 
